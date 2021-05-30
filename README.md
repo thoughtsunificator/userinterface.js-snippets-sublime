@@ -1,6 +1,6 @@
 # userinterface.js-snippets-sublime
 
-Sublime snippets for [userinterface.js](https://github.com/thoughtsunificator/userinterface.js).
+Sublime Text snippets for [userinterface.js](https://github.com/thoughtsunificator/userinterface.js).
 
 ## Installation
 
