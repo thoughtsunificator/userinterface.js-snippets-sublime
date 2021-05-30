@@ -1,0 +1,21 @@
+{
+	"name": "userinterface.js-snippets-sublime",
+	"version": "1.0.0",
+	"description": "userinterface.js snippets for Sublime Text",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thoughtsunificator/userinterface.js-snippets-sublime.git"
+	},
+	"author": "Romain Lebesle <oss@thoughtsunificator.me> (https://thoughtsunificator.me)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/thoughtsunificator/userinterface.js-snippets-sublime/issues"
+	},
+	"homepage": "https://github.com/thoughtsunificator/userinterface.js-snippets-sublime",
+	"keywords": [
+			"javascript",
+			"sublime",
+			"text",
+			"snippets"
+		],
+}

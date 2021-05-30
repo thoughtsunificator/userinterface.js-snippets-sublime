@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+UserInterface.model({
+	name: "${1:name}",
+	method: UserInterface.appendChild,
+	properties: {
+		tagName: "${2:div}"
+	}
+})
+
+UserInterface.bind("${1:name}", async function(element) {
+
+})
+]]></content>
+	<tabTrigger>model</tabTrigger>
+	<scope>source.js</scope>
+	<description>userinterface.js model</description>
+</snippet>
